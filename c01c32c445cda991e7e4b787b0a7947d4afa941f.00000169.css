@@ -1,0 +1,116 @@
+TD {
+	font-size: 10pt;
+	font-family: arial,arial,Verdana, Helvetica, sans-serif;
+}
+
+H1 {
+	font-size: 16pt;
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	color: #330066;
+}
+
+H2 {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+	color: #330066;
+}
+
+H3 {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #330066;
+}
+
+IMG {
+	border: none;
+}
+
+SELECT {
+	font-size: 8pt;
+}
+
+.large {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 12pt;
+}
+
+.largepurple {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #330066
+}
+
+.xlargepurple {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	color: #330066
+}
+
+.medium {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 11pt;
+}
+
+.mediumpurple {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #330066
+}
+
+.largewhite {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #FFFFFF
+}
+
+.smaller {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+.more {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+.copyright {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FFFFFF
+}
+
+.smaller {
+	font-family: arial,Verdana, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+.border {
+	border-top: 1px solid #E6DEB3;
+	border-right: 1px solid #E6DEB3;
+	border-bottom: 1px solid #E6DEB3;
+	border-left: 1px solid #E6DEB3;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+}
+
+.tanborder {
+	border-top: 1px solid #DACF99;
+	border-right: 1px solid #DACF99;
+	border-bottom: 1px solid #DACF99;
+	border-left: 1px solid #DACF99;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+
+
+.padding5 {
+	padding-bottom: 5px;
+}
