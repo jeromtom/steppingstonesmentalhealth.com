@@ -131,7 +131,7 @@ const ARCHIVARIX_CACHE_CONTROL_MAX_AGE = 2592000;
  * Set a custom domain if it is not recognized automatically or
  * you want to run your restore on a subdomain of original domain.
  */
-const ARCHIVARIX_CUSTOM_DOMAIN = '';
+const ARCHIVARIX_CUSTOM_DOMAIN = 'https://jeromtom.com/steppingstonesmentalhealth.com/';
 
 /**
  * XML Sitemap path. Example: /sitemap.xml
